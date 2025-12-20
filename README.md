@@ -39,7 +39,7 @@ Response may be slow as Render Free Services is used in it.
 
 ## Modular Backend Architecture
 
-* Node.js + Express backend.
+* SpringBoot + Advance Java used here
 * Clean and scalable code structure.
 * Dedicated routes, controllers, models, middleware.
 
@@ -66,11 +66,11 @@ Response may be slow as Render Free Services is used in it.
 
 ## Database
 
-* **MongoDB** (Cloud + Local support)
+* **SQL** (Cloud + Local support)
 
 ## AI Integration
 
-* **OpenAI API** or **Google Gemini API**
+* **Google Gemini API**
 
 ---
 
